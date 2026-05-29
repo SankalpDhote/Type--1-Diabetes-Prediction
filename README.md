@@ -37,8 +37,8 @@ Logistic Regression, Decision Tree Classifier, Random Forest Classifier, Support
 ---
 
 📂 Project Structure
-📦 Diabetes-Prediction-System
- ┣ 📜 Diabetes_Care_Center_With_Feature_Seletion.ipynb
- ┣ 📜 Diabetes_Care_Center_Without_Feature_Selection.ipynb
- ┣ 📂 Dataset
- ┗ 📄 README.md
+- 📦 Diabetes-Prediction-System
+- 📜 Diabetes_Care_Center_With_Feature_Seletion.ipynb
+- 📜 Diabetes_Care_Center_Without_Feature_Selection.ipynb
+- 📂 Dataset
+- README.md
