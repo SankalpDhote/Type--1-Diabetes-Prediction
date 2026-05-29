@@ -2,37 +2,37 @@
 
 ---
 
-📌 Overview
+📌 **Overview**
 
 This project focuses on predicting diabetes using Machine Learning techniques on healthcare datasets.
 The project compares model performance with Feature Selection and without Feature Selection to evaluate the impact of optimized features on prediction accuracy.
 
 ---
 
-📊 Dataset
+📊 **Dataset**
 
 The project uses raw healthcare data collected from hospitals and diabetes care centers, including patient medical attributes used for diabetes prediction and analysis.
 
 ---
 
-🚀 Technologies Used
+🚀 **Technologies Used:**
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
 
 ---
 
-🤖 Machine Learning Models
+🤖 **Machine Learning Models:**
 Logistic Regression, Decision Tree Classifier, Random Forest Classifier, Support Vector Machine (SVM), Gradient Boosting
 
 ---
 
-📊 Features
+📊 ** Features:**
 
-✅ Data Cleaning & Preprocessing
-✅ Exploratory Data Analysis (EDA)
-✅ Feature Selection Techniques
-✅ Model Training & Evaluation
-✅ Accuracy & ROC Analysis
-✅ Performance Comparison
+- ✅ Data Cleaning & Preprocessing
+- ✅ Exploratory Data Analysis (EDA)
+- ✅ Feature Selection Techniques
+- ✅ Model Training & Evaluation
+- ✅ Accuracy & ROC Analysis
+- ✅ Performance Comparison
 
 ---
 
